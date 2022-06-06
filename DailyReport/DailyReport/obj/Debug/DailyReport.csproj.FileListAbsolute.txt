@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
