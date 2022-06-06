@@ -25,7 +25,7 @@ class Program
             else
             {
                 int quote = (pckgLength * pckgHeight * pckgWidth * pckgWeight)/100;
-                Console.WriteLine("Your quote is : $" + quote.ToString() + ".00");
+                Console.WriteLine("Your quote is : $" + quote.ToString() + ".00\nThank You!");
             }
         }
         Console.ReadLine();
