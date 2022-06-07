@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\bin\Debug\SwitchCaseTest.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\bin\Debug\SwitchCaseTest.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\bin\Debug\SwitchCaseTest.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\obj\Debug\SwitchCaseTest.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\obj\Debug\SwitchCaseTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\obj\Debug\SwitchCaseTest.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\obj\Debug\SwitchCaseTest.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\SwitchCaseTest\obj\Debug\SwitchCaseTest.pdb
