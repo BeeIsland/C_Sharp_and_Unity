@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int pInput = 0;
+        int pInput;
         string rawInput;
         do
         {
