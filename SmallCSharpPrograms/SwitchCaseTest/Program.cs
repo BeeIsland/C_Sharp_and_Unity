@@ -4,13 +4,22 @@ class Program
 {
     static void Main()
     {
+
+        //Number guessing
+
         int pInput;
         string rawInput;
         do
         {
             pInput = 0;
-            Console.WriteLine("Please input a number from one to five");
+            Console.WriteLine("Please input a number from one to five or type 'EXIT' to move on");
             rawInput = Console.ReadLine();
+
+            if (rawInput.ToUpper() == "EXIT")
+            {
+                break;
+            }
+
             try
             {
                 Convert.ToInt32(rawInput);
@@ -56,6 +65,28 @@ class Program
             }
         }
         while (pInput != 1);
+
+        //Number adding
+
+        string response = "";
+        int total = 0;
+        int addNum;
+
+        while (response.ToUpper() != "EXIT")
+        {
+            Console.WriteLine("Please a number to add to the total or type 'EXIT' to end the program");
+            response = Console.ReadLine();
+
+            if (response.ToUpper() == "EXIT")
+            {
+                break;
+            }
+
+            addNum = Convert.ToInt32(response);
+            total += addNum;
+
+            Console.WriteLine("New total: " + total.ToString());
+        }
     }
 }
 
