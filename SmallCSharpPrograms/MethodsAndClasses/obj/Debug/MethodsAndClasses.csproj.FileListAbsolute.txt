@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\bin\Debug\MethodsAndClasses.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\obj\Debug\MethodsAndClasses.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\obj\Debug\MethodsAndClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\obj\Debug\MethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\obj\Debug\MethodsAndClasses.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\MethodsAndClasses\obj\Debug\MethodsAndClasses.pdb
