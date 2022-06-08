@@ -156,28 +156,27 @@ class Program
         //Foreach Matching Strings
 
         List<string> stringList3 = new List<string>() { "words", "this", "list", "has", "several", "of", "indeed", "wow", "and", "don't", "you", "wish", "it", "had", "more", "well", "now", "it", "does", "indeed", "have", "more", "and", "just", "for", "kicks", "I", "added", "a", "few", "extra", };
-        List<string> modList = new List<string>() { "words", "this", "list", "has", "several", "of", "indeed", "wow", "and", "don't", "you", "wish", "it", "had", "more", "well", "now", "it", "does", "indeed", "have", "more", "and", "just", "for", "kicks", "I", "added", "a", "few", "extra", };
-        List<string> skipWord= new List<string>();
+        List<string> duplicates= new List<string>();
 
         Console.WriteLine("Text | Duplicate?");
 
         foreach (string word in stringList3)
         {
-            if (skipWord.Contains(word))
+
+            if (!duplicates.Contains(word) && stringList3.IndexOf(word) != stringList3.LastIndexOf(word))
             {
-                continue;
+                duplicates.Add(word);
             }
-            modList.Remove(word);
-            if (modList.Contains(word))
+            if (duplicates.Contains(word))
             {
-                Console.WriteLine(word + " |         True");
+                Console.WriteLine(word + " |        True");
             }
             else
             {
                 Console.WriteLine(word + " | False");
             }
-            skipWord.Add(word);
         }
+
         Console.ReadLine();
     }
 }
