@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\TwentyOne\obj\Debug\TwentyOne.pdb
