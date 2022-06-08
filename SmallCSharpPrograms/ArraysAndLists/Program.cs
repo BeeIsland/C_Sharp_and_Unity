@@ -41,7 +41,7 @@ class Program
 
         if (chosenNum > 5 || chosenNum < 0)
         {
-            Console.WriteLine("Pick a number between 0 and 5 next time!");
+            Console.WriteLine("Pick a number between 0 and 3 next time!");
             Console.ReadLine();
         }
         else
