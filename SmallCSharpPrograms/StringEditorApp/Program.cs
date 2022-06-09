@@ -156,24 +156,21 @@ class Program
         //Foreach Matching Strings
 
         List<string> stringList3 = new List<string>() { "words", "this", "list", "has", "several", "of", "indeed", "wow", "and", "don't", "you", "wish", "it", "had", "more", "well", "now", "it", "does", "indeed", "have", "more", "and", "just", "for", "kicks", "I", "added", "a", "few", "extra", };
-        List<string> duplicates= new List<string>();
+        List<string> oneOfEach= new List<string>();
 
-        Console.WriteLine("Text | Duplicate?");
+        Console.WriteLine("Text | Has is appeared before?");
 
         foreach (string word in stringList3)
         {
 
-            if (!duplicates.Contains(word) && stringList3.IndexOf(word) != stringList3.LastIndexOf(word))
+            if (oneOfEach.Contains(word))
             {
-                duplicates.Add(word);
-            }
-            if (duplicates.Contains(word))
-            {
-                Console.WriteLine(word + " |        True");
+                Console.WriteLine(word + " | Yes");
             }
             else
             {
-                Console.WriteLine(word + " | False");
+                Console.WriteLine(word + " | No");
+                oneOfEach.Add(word);
             }
         }
 
