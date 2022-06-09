@@ -15,7 +15,7 @@ namespace MoreMethods
 
         public decimal Operate(decimal number)
         {
-            return number * 10m;
+            return Convert.ToInt32(number * 10m);
         }
 
         public int Operate(string number)
