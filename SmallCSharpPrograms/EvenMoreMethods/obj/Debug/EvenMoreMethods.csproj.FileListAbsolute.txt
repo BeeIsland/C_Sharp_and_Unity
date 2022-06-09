@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\bin\Debug\EvenMoreMethods.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\bin\Debug\EvenMoreMethods.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\bin\Debug\EvenMoreMethods.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\obj\Debug\EvenMoreMethods.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\obj\Debug\EvenMoreMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\obj\Debug\EvenMoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\obj\Debug\EvenMoreMethods.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\EvenMoreMethods\obj\Debug\EvenMoreMethods.pdb
