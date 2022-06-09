@@ -9,28 +9,35 @@ namespace TwentyOne
         static void Main()
         {
             Deck deckOne = new Deck();
-
-            deckOne = Shuffle(deckOne);
+            int timesShuffled;
+            deckOne = Shuffle(deckOne, out timesShuffled, 5);
 
             foreach (Card card in deckOne.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
+            Console.WriteLine("Times shuffled: {0}", timesShuffled);
             Console.ReadLine();
         }
 
-        public static Deck Shuffle(Deck deck)
+        public static Deck Shuffle(Deck deck, out int timesShuffled, int times = 1)
         {
-            List<Card> tempList = new List<Card>();
-            Random random = new Random();
-
-            while (deck.Cards.Count > 0)
+            timesShuffled = 0;
+            for (int i = 0; i < times; i++)
             {
-                int randomIndex = random.Next(0, deck.Cards.Count);
-                tempList.Add(deck.Cards[randomIndex]);
-                deck.Cards.RemoveAt(randomIndex);
+                timesShuffled++;
+                List<Card> tempList = new List<Card>();
+                Random random = new Random();
+
+                while (deck.Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, deck.Cards.Count);
+                    tempList.Add(deck.Cards[randomIndex]);
+                    deck.Cards.RemoveAt(randomIndex);
+                }
+                deck.Cards = tempList;
             }
-            deck.Cards = tempList;
+            
             return deck;
         }
     }
