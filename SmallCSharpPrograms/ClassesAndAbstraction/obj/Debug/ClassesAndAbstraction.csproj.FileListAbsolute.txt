@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\bin\Debug\ClassesAndAbstraction.exe.config
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\bin\Debug\ClassesAndAbstraction.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\bin\Debug\ClassesAndAbstraction.pdb
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\obj\Debug\ClassesAndAbstraction.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\obj\Debug\ClassesAndAbstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\obj\Debug\ClassesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\obj\Debug\ClassesAndAbstraction.exe
+C:\Users\camer\OneDrive\Documents\GitHub\C_Sharp_and_Unity\SmallCSharpPrograms\ClassesAndAbstraction\obj\Debug\ClassesAndAbstraction.pdb
