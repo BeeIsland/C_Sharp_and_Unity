@@ -10,12 +10,16 @@ namespace Polymorphism
     {
         static void Main()
         {
-            IQuittable employee1 = new Employee();
-            employee1.Quit();
-            Console.ReadLine();
-
-            Employee employee2 = new Employee();
-            employee2.Quit();
+            Employee employee1 = new Employee() { EmployeeID = 1};
+            Employee employee2 = new Employee() { EmployeeID = 2};
+            if (employee1 == employee2)
+            {
+                Console.WriteLine("The two employees are the same");
+            }
+            else if (employee1 != employee2)
+            {
+                Console.WriteLine("The two employees are not the same");
+            }
             Console.ReadLine();
         }
     }
