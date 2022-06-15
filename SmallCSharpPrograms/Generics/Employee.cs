@@ -14,31 +14,5 @@ namespace Polymorphism
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
-
-        public static bool operator ==(Employee<T> Employee1, Employee<T> Employee2)
-        {
-            if (Employee1.EmployeeID == Employee2.EmployeeID)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-
-        public static bool operator !=(Employee<T> Employee1, Employee<T> Employee2)
-        {
-            if (Employee1.EmployeeID == Employee2.EmployeeID)
-            {
-                return false;
-            }
-            else
-            {
-                return true;
-            }
-        }
-
-
     }
 }
