@@ -22,8 +22,6 @@ namespace TwentyOne
                     Cards.Add(card);
                 }
             }
-
-
         }
         public List<Card> Cards { get; set; }
 
